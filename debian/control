@@ -1,0 +1,12 @@
+Source: ros-melodic-tf2-web-republisher
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-rostest, ros-melodic-tf, ros-melodic-tf2-ros
+Homepage: http://ros.org/wiki/tf2_web_republisher
+Standards-Version: 3.9.2
+
+Package: ros-melodic-tf2-web-republisher
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-roscpp, ros-melodic-tf, ros-melodic-tf2-ros
+Description: Republishing of Selected TFs
