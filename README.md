@@ -1,3 +1,26 @@
+## tf2_web_republisher (lunar) - 0.3.2-0
+
+The packages in the `tf2_web_republisher` repository were released into the `lunar` distro by running `/usr/bin/bloom-release tf2_web_republisher --ros-distro lunar --track lunar --new-track` on `Wed, 22 Aug 2018 00:52:45 -0000`
+
+The `tf2_web_republisher` package was released.
+
+Version of package(s) in repository `tf2_web_republisher`:
+
+- upstream repository: https://github.com/RobotWebTools/tf2_web_republisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## tf2_web_republisher (melodic) - 0.3.2-0
 
 The packages in the `tf2_web_republisher` repository were released into the `melodic` distro by running `/usr/bin/bloom-release tf2_web_republisher --ros-distro melodic --track melodic --new-track` on `Tue, 21 Aug 2018 01:19:51 -0000`
