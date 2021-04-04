@@ -1,3 +1,26 @@
+## tf2_web_republisher (noetic) - 0.3.2-2
+
+The packages in the `tf2_web_republisher` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --ros-distro noetic --new-track tf2_web_republisher` on `Sun, 04 Apr 2021 12:10:10 -0000`
+
+The `tf2_web_republisher` package was released.
+
+Version of package(s) in repository `tf2_web_republisher`:
+
+- upstream repository: https://github.com/RobotWebTools/tf2_web_republisher.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.3.2-1`
+- new version: `0.3.2-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## tf2_web_republisher (noetic) - 0.3.2-1
 
 The packages in the `tf2_web_republisher` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --track noetic --ros-distro noetic --new-track tf2_web_republisher` on `Sun, 04 Apr 2021 12:04:49 -0000`
